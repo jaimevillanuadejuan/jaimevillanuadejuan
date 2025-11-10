@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [github.com/jaimevillanuadejuan](github.com/jaimevillanuadejuan)
 
-- 💬 Ask me anything about **C#, .NET, Typescript, JavaScript, React.js, Node.js, football, music**
+- 💬 Ask me anything about **C#, .NET, TypeScript, JavaScript, React.js, Java, Node.js, football, music**
 
 - 📧 You can contact me at **jaimevillanua10@gmail.com**
 
