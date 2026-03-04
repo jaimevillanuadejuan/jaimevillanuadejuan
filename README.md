@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimevillanuadejuan&label=Profile%20views&color=0e75b6&style=flat" alt="jaimevillanuadejuan" /> </p>
 
-- 👨‍💻 Currently working with **EF Core, JWT, and Microsoft SQL Server**
+- 👨‍💻 Currently working with **Next.js, NestJS, Claude Code, Docker and Prisma**
 
 - 👨‍💻 All of my projects are available at [github.com/jaimevillanuadejuan](github.com/jaimevillanuadejuan)
 
